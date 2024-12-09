@@ -39,6 +39,10 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![WhatsApp Image 2024-12-09 at 21 45 24_ca10b160](https://github.com/user-attachments/assets/03d9aed7-26ce-492f-b11b-ded85904dfe7)
+
+![WhatsApp Image 2024-12-09 at 21 45 24_505dcc8b](https://github.com/user-attachments/assets/e0b9ad46-38a3-498f-9601-b728dd9f4f0f)
+
 **Procedure**
 
 Write the detailed procedure here
